@@ -57,4 +57,3 @@ public class C6_18 {
         return true;
     }
 }
-
